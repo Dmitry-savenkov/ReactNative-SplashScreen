@@ -7,4 +7,4 @@ expo start
 i
 ```
 
-![alt text](assets/img.png "")​
+![alt text](assets/img1.png "")​
